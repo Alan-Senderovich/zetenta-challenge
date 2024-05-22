@@ -810,3 +810,11 @@ section {
     }
   }
 }
+
+@media screen and (min-width: 768px) and (max-width: 1300px) {
+  .second-section__cards-container{
+    ul {
+      padding-bottom: 16px;
+    }
+  }
+}
